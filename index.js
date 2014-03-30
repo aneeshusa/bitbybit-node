@@ -1,3 +1,4 @@
+var server = require("./server.js");
 var verify = require("./verify.js");
 
-verify.start();
+server.start(verify.verify);
