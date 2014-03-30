@@ -1,1 +1,1 @@
-module.exports = ["typeof snake_outline == 'string'", "typeof snake_file == 'string'"]
+module.exports = ["typeof snake_outline == 'string'", "typeof snake_fill == 'string'"]
